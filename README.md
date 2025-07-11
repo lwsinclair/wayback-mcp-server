@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cyreslab-ai-wayback-mcp-server-badge.png)](https://mseep.ai/app/cyreslab-ai-wayback-mcp-server)
+
 # Wayback Machine MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@Cyreslab-AI/wayback-mcp-server)](https://smithery.ai/server/@Cyreslab-AI/wayback-mcp-server)
